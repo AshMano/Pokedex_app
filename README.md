@@ -6,9 +6,9 @@ Voici la liste des éléments implémentés et comment les retrouver :
 - des éléments graphiques (button, textview, imageview) sont présents sur toutes les activity (ou presque)
 - la MainActivity est disponible en format portrait et paysage
 - les différentes notifications se trouvent respectivement :
-  en cliquant sur quitter dans le menu puis deux fois sur le bouton quitter apparaissant
-  en cliquant sur liste A-Z dans le menu puis sur le bouton crédits apparaissant
-  en cliquand sur details dans le menu puis sur le bouton button apparaissant
+  en cliquant sur quitter dans le menu puis deux fois sur le bouton quitter apparaissant ;
+  en cliquant sur liste A-Z dans le menu puis sur le bouton crédits apparaissant ;
+  en cliquand sur details dans le menu puis sur le bouton button apparaissant ;
 - des boutons sont présents dans l'action bar sur le menu (MainActivity)
 - le service de téléchargement est accessible via le bouton telecharger en haut du menu et la notification de fin arrive ensuite
 
