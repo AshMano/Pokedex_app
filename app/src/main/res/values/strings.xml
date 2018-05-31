@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pokédex </string>
+    <string name="télécharger"> Telecharger </string>
+    <string name="pokedex_description"> Explorer le pokédex </string>
+    <string name="liste">" Liste A-Z "</string>
+    <string name="liste_description"> Liste par ordre alphabétique </string>
+    <string name="details_description"> Informations dévelopeurs </string>
+    <string name="carte"> Carte </string>
+    <string name="carte_description"> Explorez le monde </string>
+    <string name="quitter"> Quitter </string>
+
+</resources>

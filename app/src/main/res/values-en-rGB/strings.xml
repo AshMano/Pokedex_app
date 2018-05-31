@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Pokédex "</string>
+    <string name="pokedex_description">Explore the pokedex</string>
+    <string name="liste">List A-Z</string>
+    <string name="liste_description">List in alphabetical order</string>
+    <string name="details_description">Developers information</string>
+    <string name="carte">Map</string>
+    <string name="carte_description">Explore the world</string>
+    <string name="quitter">Leave</string>
+    <string name="télécharger">Download</string>
+</resources>
